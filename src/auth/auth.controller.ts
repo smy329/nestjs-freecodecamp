@@ -15,3 +15,5 @@ export class AuthController {
     return this.authservice.signin();
   }
 }
+
+// yasrn add prisma/client
